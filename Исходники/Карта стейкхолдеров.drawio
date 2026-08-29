@@ -1,0 +1,214 @@
+<mxfile host="Electron">
+  <diagram name="Страница-1" id="bZOke14ZYjxbF5DAowir">
+    <mxGraphModel dx="3684" dy="2928" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="320" width="500" x="120" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-2" edge="1" parent="1" source="m3JkAYDBTtRoXEX9rigg-1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="m3JkAYDBTtRoXEX9rigg-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="360" as="sourcePoint" />
+            <mxPoint x="380" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-3" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="250" as="sourcePoint" />
+            <mxPoint x="620" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Влияние на проект" vertex="1">
+          <mxGeometry height="30" width="120" x="310" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интерес к проекту" vertex="1">
+          <mxGeometry height="30" width="110" x="630" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Покупатель&lt;br&gt;&lt;br&gt;Курьер" vertex="1">
+          <mxGeometry height="40" width="250" x="370" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Владелец&lt;br&gt;&lt;br&gt;Фармацевт&lt;br&gt;&lt;br&gt;Команда разработки и технической поддержки" vertex="1">
+          <mxGeometry height="87.5" width="250" x="370" y="118.75" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Регулирующие и контролирующие органы" vertex="1">
+          <mxGeometry height="25" width="250" x="120" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="m3JkAYDBTtRoXEX9rigg-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Поставщик" vertex="1">
+          <mxGeometry height="25" width="250" x="120" y="312.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-58" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="965" width="2010" x="120" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-1" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="965" width="2010" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-3" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Роль" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-4" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Интерес" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-5" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Влияние&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%A0%D0%BE%D0%BB%D1%8C%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22160%22%20x%3D%22120%22%20y%3D%22520%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-6" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Потребности и ожидания" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-7" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Взаимодействие" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-8" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Владелец" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-9" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Фармацевт" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-10" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Команда разработки и технической поддержки" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-11" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Покупатель&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20parent%3D%221%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20value%3D%22%D0%A0%D0%BE%D0%BB%D1%8C%22%20vertex%3D%221%22%3E%3CmxGeometry%20height%3D%2280%22%20width%3D%22160%22%20x%3D%22120%22%20y%3D%22520%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1046" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-12" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Курьер" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-13" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Регулирующие и контролирующие органы" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-14" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Поставщик" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="82.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-15" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Контролируют соблюдение требований законодательства" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-16" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Поставляет товары" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-17" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Занимается доставкой заказов к покупателям" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-18" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Ищет товары, оформляет онлайн заказы (самовывоз/доставка), отслеживает их статус, проверяет наличие товаров и их цены" vertex="1">
+          <mxGeometry height="80" width="160" x="1046" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-19" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Занимается разработкой ПО и в последствии её поддержкой" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-20" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Оформляет, собирает, выдаёт заказы, ведёт учёт товаров" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-21" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Занимается закупками, контролирует работу аптеки, управляет каталогом товаров&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="202.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-22" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Низкий интерес, тк система маленькой аптеки не является для них отдельным приоритетом" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-23" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Низкий интерес, тк проект не влияет на его работу" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-24" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокий интерес, тк система упрощает работу" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-25" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокий интерес, тк это упрощает взаимодействие с аптекой" vertex="1">
+          <mxGeometry height="80" width="160" x="1045" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-26" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокий интерес, тк их задачей является создать корректно работающее ПО" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-27" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Высокое интерес, так как ПО должно облегчить учет товаров и оформление заказов&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-28" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокий интерес, тк это должно повысить продажи" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="322.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-29" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокое влияние, тк это бизнес владельца" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-30" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокое влияние, тк он является основным внутренним пользователем системы" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-31" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокое влияние, тк они занимаются разработкой проекта" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-32" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Низкое прямое влияние, так как покупатель не принимает проектные решения, но его потребности и обратная связь должны учитываться при разработке&lt;/p&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="1045" y="422.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-33" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Низкое прямое влияние, так как курьер не принимает основные проектные решения, но его рабочие сценарии должны учитываться при разработке&lt;/p&gt;" vertex="1">
+          <mxGeometry height="110" width="160" x="1285" y="427.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-34" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Высокое влияние, тк они регулируют работу аптеки" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-35" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;p class=&quot;p1&quot; style=&quot;margin: 0px; font-style: normal; font-variant: normal; font-size-adjust: none; font-language-override: normal; font-kerning: auto; font-optical-sizing: auto; font-feature-settings: normal; font-variation-settings: normal; font-stretch: normal; font-size: 13px; line-height: normal; font-family: &amp;quot;Helvetica Neue&amp;quot;;&quot;&gt;Низкое влияние, так как взаимодействие с поставщиком остаётся за пределами системы&lt;/p&gt;" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="442.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-36" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Соблюдение установленных требований и возможность предоставить необходимые сведения при проверке" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-37" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Автоматизация учета товаров, обработки заказов и формирования аналитики" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-38" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Облегчение работы, возможность обрабатывать онлайн заказы и вести учет товаров" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-39" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Полные требования и своевременные ответы на вопросы" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-40" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Возможность оформления онлайн заказов и удобство использования приложения" vertex="1">
+          <mxGeometry height="80" width="160" x="1045" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-41" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Получение информации о назначенных доставках, возможность фиксировать результат доставки" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-42" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет потребностей" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="562.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-43" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&#xa;Изучение нормативных требований, консультации со специалистами и проверка соответствия системы до запуска.&#xa;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="130" width="160" x="1525" y="662.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-44" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет взаимодействия" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-45" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интервью, демонстрация прототипов, тестирование" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-46" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Обсуждение и изменение требований, демонстрация промежуточных результатов" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-47" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интервью, опросы, тестирование" vertex="1">
+          <mxGeometry height="80" width="160" x="1045" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-48" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интервью, тестирование" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-49" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Интервью, согласование требований, приёмка" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="682.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-50" parent="iZRfPEVkxxJwuoq5PQT3-58" style="rounded=1;whiteSpace=wrap;html=1;" value="Опасения" vertex="1">
+          <mxGeometry height="80" width="160" x="85" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-51" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Превышение бюджета и сроков разработки, отсутствие роста продаж" vertex="1">
+          <mxGeometry height="80" width="160" x="325" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-52" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Усложнение работы, неудобный интерфейс" vertex="1">
+          <mxGeometry height="80" width="160" x="565" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-53" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Трудности в разработке, неполные требования, невыполнимые желания заказчика" vertex="1">
+          <mxGeometry height="80" width="160" x="805" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-54" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Плохо работающее приложение, неактуальные цены и трудности с оформлением онлайн заказов" vertex="1">
+          <mxGeometry height="80" width="160" x="1045" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-55" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Проблемы с доставкой заказов, неверные адреса, отсутствие связи с покупателем" vertex="1">
+          <mxGeometry height="80" width="160" x="1285" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-56" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Игнорирование требований законодательства" vertex="1">
+          <mxGeometry height="80" width="160" x="1525" y="802.5" as="geometry" />
+        </mxCell>
+        <mxCell id="iZRfPEVkxxJwuoq5PQT3-57" parent="iZRfPEVkxxJwuoq5PQT3-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Изменение процесса поставок без согласования" vertex="1">
+          <mxGeometry height="80" width="160" x="1765" y="802.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
